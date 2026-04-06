@@ -1,0 +1,8 @@
+===========================================
+References to obtain Telegram API Key
+===========================================
+
+Link: https://communalytic.org/docs/obtaining-telegram-api-key/#:~:text=To%20request%20a%20Telegram%20Developer,%5D%20and%20%5BApp%20api_hash%5D.
+
+------------------------------------------
+It is recommended to use mobile browser engine (safari/google chrome/etc) to perform this action
